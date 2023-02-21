@@ -15,5 +15,6 @@ These drivers could give you a breif example of how to set configuration for eac
     SPI ,
     I2C.</p> </p> 
    • HAL : LM35 Sensor ,LCD ,DC-Motor ,Keypad ,EEPROM ,Buzzer ,LM35 Sensor, 7-Segement  </p>
+   • HAL : Common Libraries </p>
 
  
